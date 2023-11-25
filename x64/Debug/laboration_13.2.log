@@ -1,0 +1,7 @@
+﻿  laboration_13.2.cpp
+C:\Users\zoyad\OneDrive\Рабочий стол\Student\laboration_13.2\laboration_13.2.cpp(22,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\zoyad\OneDrive\Рабочий стол\Student\laboration_13.2\laboration_13.2.cpp(52,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\zoyad\OneDrive\Рабочий стол\Student\laboration_13.2\laboration_13.2.cpp(31,9): warning C4101: 'maxi': unreferenced local variable
+C:\Users\zoyad\OneDrive\Рабочий стол\Student\laboration_13.2\laboration_13.2.cpp(32,9): warning C4101: 'dobut_2x_sum_y': unreferenced local variable
+C:\Users\zoyad\OneDrive\Рабочий стол\Student\laboration_13.2\laboration_13.2.cpp(33,9): warning C4101: 'dobut_2y_minus_z': unreferenced local variable
+  laboration_13.2.vcxproj -> C:\Users\zoyad\OneDrive\Рабочий стол\Student\laboration_13.2\x64\Debug\laboration_13.2.exe
